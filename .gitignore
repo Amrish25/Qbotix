@@ -1,0 +1,18 @@
+﻿# Python environments
+**/yolo_seg_env/
+**/venv/
+**/.venv/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Training outputs
+**/runs/
+**/wandb/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
