@@ -16,3 +16,51 @@
 .idea/
 .DS_Store
 Thumbs.db
+
+# Python virtual environments
+**/yolo_seg_env/
+**/.venv/
+**/venv/
+**/env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Training datasets
+**/train/
+**/valid/
+**/test/
+**/dataset-resized/
+**/training_backup/
+**/waste-datasets-review-main/
+
+# Generated training outputs
+**/runs/
+**/sample_overlays/
+
+# Model weights and archives
+*.pt
+*.pth
+*.onnx
+*.zip
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Qbotix datasets
+**/Cone%20Detection-2/
+**/Cone%20Detection.v1i.yolov8/
+**/dataset-resized/
+**/waste-datasets-review-main/
+
+# Large training archives
+**/Crater_Rock_YOLOv8_Results.zip
+
+# Model training outputs
+**/runs/
+**/weights/
+**/training_backup/

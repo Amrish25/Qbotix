@@ -1,0 +1,7 @@
+class_id,class_name,train_instances,valid_instances,test_instances,total_instances,train_images,valid_images,test_images,total_images,bbox_instances,percentage
+0,1,1570,121,43,1734,1566,121,43,1730,0,3.48%
+1,1 0 0 0 1 1 1 1 0 0 0,384,30,15,429,383,30,15,428,0,0.86%
+2,2,6,0,0,6,6,0,0,6,0,0.01%
+3,3,6,0,0,6,6,0,0,6,0,0.01%
+4,Crater,16993,1277,665,18935,1829,135,67,2031,0,38.05%
+5,Rock,24758,2278,1624,28660,2028,160,90,2278,539,57.58%

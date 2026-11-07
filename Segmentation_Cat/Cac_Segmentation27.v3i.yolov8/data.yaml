@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['1', '1 0 0 0 1 1 1 1 0 0 0', '2', '3', 'Crater', 'Rock']
+
+roboflow:
+  workspace: bunnys-space
+  project: cac_segmentation27
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bunnys-space/cac_segmentation27/dataset/3
